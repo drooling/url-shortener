@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/9sv/url-shortener/
+git clone https://github.com/drooling/url-shortener/
 cd url-shortener
 rm README.md
 
